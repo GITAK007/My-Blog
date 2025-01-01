@@ -33,7 +33,7 @@ function Home()  {
            <Footer/>
  
         {/* Add */}
-           <Ad/>
+           <Add/>
 
            
         

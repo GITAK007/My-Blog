@@ -30,7 +30,12 @@ function Home()  {
            {/* <Blogs/> */}
 
        {/* {Footer} */}
-           {/* <Footer/> */}
+           <Footer/>
+ 
+        {/* Add */}
+           <Ad/>
+
+           
         
 
     </div>
